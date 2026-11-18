@@ -1,2 +1,2 @@
-# satellite-flood-ai
+# ai-flood-detection-satellite-imagery
 a
